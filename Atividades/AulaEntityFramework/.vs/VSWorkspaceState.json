@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AulaEntityFramework",
+    "\\AulaEntityFramework\\Migrations",
+    "\\AulaEntityFramework\\Repositories"
+  ],
+  "SelectedNode": "\\AulaEntityFramework\\Migrations\\MyDbContextModelSnapshot.cs",
+  "PreviewInSolutionExplorer": false
+}

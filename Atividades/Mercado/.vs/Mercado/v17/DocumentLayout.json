@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\biama\\source\\repos\\Mercado\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C845E8A1-FAC0-4591-A43A-1C708718496C}|Mercado\\Mercado.csproj|c:\\users\\biama\\source\\repos\\mercado\\mercado\\controllers\\produtoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C845E8A1-FAC0-4591-A43A-1C708718496C}|Mercado\\Mercado.csproj|solutionrelative:mercado\\controllers\\produtoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C845E8A1-FAC0-4591-A43A-1C708718496C}|Mercado\\Mercado.csproj|c:\\users\\biama\\source\\repos\\mercado\\mercado\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C845E8A1-FAC0-4591-A43A-1C708718496C}|Mercado\\Mercado.csproj|solutionrelative:mercado\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C845E8A1-FAC0-4591-A43A-1C708718496C}|Mercado\\Mercado.csproj|c:\\users\\biama\\source\\repos\\mercado\\mercado\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C845E8A1-FAC0-4591-A43A-1C708718496C}|Mercado\\Mercado.csproj|solutionrelative:mercado\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C845E8A1-FAC0-4591-A43A-1C708718496C}|Mercado\\Mercado.csproj|c:\\users\\biama\\source\\repos\\mercado\\mercado\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C845E8A1-FAC0-4591-A43A-1C708718496C}|Mercado\\Mercado.csproj|solutionrelative:mercado\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C845E8A1-FAC0-4591-A43A-1C708718496C}|Mercado\\Mercado.csproj|c:\\users\\biama\\source\\repos\\mercado\\mercado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C845E8A1-FAC0-4591-A43A-1C708718496C}|Mercado\\Mercado.csproj|solutionrelative:mercado\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C845E8A1-FAC0-4591-A43A-1C708718496C}|Mercado\\Mercado.csproj|c:\\users\\biama\\source\\repos\\mercado\\mercado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C845E8A1-FAC0-4591-A43A-1C708718496C}|Mercado\\Mercado.csproj|solutionrelative:mercado\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C845E8A1-FAC0-4591-A43A-1C708718496C}|Mercado\\Mercado.csproj|c:\\users\\biama\\source\\repos\\mercado\\mercado\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C845E8A1-FAC0-4591-A43A-1C708718496C}|Mercado\\Mercado.csproj|solutionrelative:mercado\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C845E8A1-FAC0-4591-A43A-1C708718496C}|Mercado\\Mercado.csproj|c:\\users\\biama\\source\\repos\\mercado\\mercado\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C845E8A1-FAC0-4591-A43A-1C708718496C}|Mercado\\Mercado.csproj|solutionrelative:mercado\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Users\\biama\\source\\repos\\Mercado\\Mercado\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "Mercado\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Users\\biama\\source\\repos\\Mercado\\Mercado\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "Mercado\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T00:53:47.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProdutoesController.cs",
+              "DocumentMoniker": "C:\\Users\\biama\\source\\repos\\Mercado\\Mercado\\Controllers\\ProdutoesController.cs",
+              "RelativeDocumentMoniker": "Mercado\\Controllers\\ProdutoesController.cs",
+              "ToolTip": "C:\\Users\\biama\\source\\repos\\Mercado\\Mercado\\Controllers\\ProdutoesController.cs",
+              "RelativeToolTip": "Mercado\\Controllers\\ProdutoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T00:28:15.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\biama\\source\\repos\\Mercado\\Mercado\\appsettings.json",
+              "RelativeDocumentMoniker": "Mercado\\appsettings.json",
+              "ToolTip": "C:\\Users\\biama\\source\\repos\\Mercado\\Mercado\\appsettings.json",
+              "RelativeToolTip": "Mercado\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-07T00:17:33.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\biama\\source\\repos\\Mercado\\Mercado\\Program.cs",
+              "RelativeDocumentMoniker": "Mercado\\Program.cs",
+              "ToolTip": "C:\\Users\\biama\\source\\repos\\Mercado\\Mercado\\Program.cs",
+              "RelativeToolTip": "Mercado\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T00:04:43.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\biama\\source\\repos\\Mercado\\Mercado\\Models\\MyDbContext.cs",
+              "RelativeDocumentMoniker": "Mercado\\Models\\MyDbContext.cs",
+              "ToolTip": "C:\\Users\\biama\\source\\repos\\Mercado\\Mercado\\Models\\MyDbContext.cs",
+              "RelativeToolTip": "Mercado\\Models\\MyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T23:26:36.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\biama\\source\\repos\\Mercado\\Mercado\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Mercado\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\biama\\source\\repos\\Mercado\\Mercado\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Mercado\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T23:04:15.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\biama\\source\\repos\\Mercado\\Mercado\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Mercado\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\biama\\source\\repos\\Mercado\\Mercado\\Models\\Categoria.cs",
+              "RelativeToolTip": "Mercado\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T23:19:49.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\biama\\source\\repos\\Mercado\\Mercado\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Mercado\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\biama\\source\\repos\\Mercado\\Mercado\\Models\\Produto.cs",
+              "RelativeToolTip": "Mercado\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T23:10:47.278Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

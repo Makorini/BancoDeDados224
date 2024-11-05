@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFDataBaseFirst\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFDataBaseFirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\EFDataBaseFirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFDataBaseFirst\\EFDataBaseFirst.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Controllers\\BlogsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFDataBaseFirst\\Controllers\\BlogsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Views\\Blogs\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFDataBaseFirst\\Views\\Blogs\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Views\\Blogs\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFDataBaseFirst\\Views\\Blogs\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Views\\Blogs\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFDataBaseFirst\\Views\\Blogs\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Views\\Blogs\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFDataBaseFirst\\Views\\Blogs\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Views\\Blogs\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFDataBaseFirst\\Views\\Blogs\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Controllers\\PostsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EFDataBaseFirst\\Controllers\\PostsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Program.cs",
+              "RelativeDocumentMoniker": "EFDataBaseFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Program.cs",
+              "RelativeToolTip": "EFDataBaseFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T21:21:05.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "EFDataBaseFirst\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "EFDataBaseFirst\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T00:57:22.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Views\\Blogs\\Details.cshtml",
+              "RelativeDocumentMoniker": "EFDataBaseFirst\\Views\\Blogs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Views\\Blogs\\Details.cshtml",
+              "RelativeToolTip": "EFDataBaseFirst\\Views\\Blogs\\Details.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T00:56:22.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Views\\Blogs\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFDataBaseFirst\\Views\\Blogs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Views\\Blogs\\Index.cshtml",
+              "RelativeToolTip": "EFDataBaseFirst\\Views\\Blogs\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwBIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T00:56:03.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Views\\Blogs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EFDataBaseFirst\\Views\\Blogs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Views\\Blogs\\Edit.cshtml",
+              "RelativeToolTip": "EFDataBaseFirst\\Views\\Blogs\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T00:55:30.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Views\\Blogs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EFDataBaseFirst\\Views\\Blogs\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Views\\Blogs\\Delete.cshtml",
+              "RelativeToolTip": "EFDataBaseFirst\\Views\\Blogs\\Delete.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T00:55:18.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Views\\Blogs\\Create.cshtml",
+              "RelativeDocumentMoniker": "EFDataBaseFirst\\Views\\Blogs\\Create.cshtml",
+              "ToolTip": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Views\\Blogs\\Create.cshtml",
+              "RelativeToolTip": "EFDataBaseFirst\\Views\\Blogs\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAArwBYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T00:54:13.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "EFDataBaseFirst\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "EFDataBaseFirst\\Controllers\\BlogsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T00:23:41.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EFDataBaseFirst.csproj",
+              "DocumentMoniker": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\EFDataBaseFirst.csproj",
+              "RelativeDocumentMoniker": "EFDataBaseFirst\\EFDataBaseFirst.csproj",
+              "ToolTip": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\EFDataBaseFirst.csproj",
+              "RelativeToolTip": "EFDataBaseFirst\\EFDataBaseFirst.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T23:32:44.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "EFDataBaseFirst\\appsettings.json",
+              "ToolTip": "C:\\Users\\biama\\Documents\\UNOESC\\4 Fase 2024\\BancoDeDados224\\EFDataBaseFirst\\EFDataBaseFirst\\appsettings.json",
+              "RelativeToolTip": "EFDataBaseFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T23:25:46.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

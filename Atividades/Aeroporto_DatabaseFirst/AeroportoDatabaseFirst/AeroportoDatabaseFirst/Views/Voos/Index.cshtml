@@ -1,0 +1,59 @@
+﻿@model IEnumerable<AeroportoDatabaseFirst.Models.Voo>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.HorarioSaida)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HorarioDestino)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdAeronaveNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdAeroportoDestinoNavigation)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdAeroportoSaidaNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.HorarioSaida)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HorarioDestino)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdAeronaveNavigation.IdAeronave)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdAeroportoDestinoNavigation.IdAeroporto)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdAeroportoSaidaNavigation.IdAeroporto)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdVoo">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdVoo">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdVoo">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

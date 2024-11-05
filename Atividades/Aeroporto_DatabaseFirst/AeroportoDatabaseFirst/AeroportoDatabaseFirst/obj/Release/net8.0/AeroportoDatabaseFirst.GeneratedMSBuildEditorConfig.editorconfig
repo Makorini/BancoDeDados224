@@ -1,0 +1,187 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AeroportoDatabaseFirst
+build_property.RootNamespace = AeroportoDatabaseFirst
+build_property.ProjectDir = C:\Users\biama\Documents\UNOESC\4 Fase 2024\BancoDeDados224\BancoDeDados224-main\Atividades\Aeroporto_DatabaseFirst\AeroportoDatabaseFirst\AeroportoDatabaseFirst\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\biama\Documents\UNOESC\4 Fase 2024\BancoDeDados224\BancoDeDados224-main\Atividades\Aeroporto_DatabaseFirst\AeroportoDatabaseFirst\AeroportoDatabaseFirst
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Aeronaves/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb25hdmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Aeronaves/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb25hdmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Aeronaves/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb25hdmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Aeronaves/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb25hdmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Aeronaves/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb25hdmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Aeroportoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb3BvcnRvZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Aeroportoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb3BvcnRvZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Aeroportoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb3BvcnRvZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Aeroportoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb3BvcnRvZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Aeroportoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWVyb3BvcnRvZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Clientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Clientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Clientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Clientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Clientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Compras/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Compras/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Compras/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Compras/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Compras/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcHJhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Escalas/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjYWxhc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Escalas/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjYWxhc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Escalas/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjYWxhc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Escalas/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjYWxhc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Escalas/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXNjYWxhc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Horarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9yYXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Horarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9yYXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Horarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9yYXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Horarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9yYXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Horarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9yYXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Voos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9vc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Voos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9vc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Voos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9vc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Voos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9vc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Voos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVm9vc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/biama/Documents/UNOESC/4 Fase 2024/BancoDeDados224/BancoDeDados224-main/Atividades/Aeroporto_DatabaseFirst/AeroportoDatabaseFirst/AeroportoDatabaseFirst/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-sqafrhihvi
